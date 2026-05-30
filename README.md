@@ -10,7 +10,7 @@ Welcome to my GitHub profile. I'm a tech enthusiast with a focus on data science
 | **Degree** | Computer Science & Data Science |
 | **Skills** | Python, SQL, Data Analytics, EXCEL, HTML, POWERBI |
 | **Languages** | Telugu, English |
-| **INTRESTS** | RIDING, TRAVELING, LISTING MUSIC|
+| **INTERESTS** | RIDING, TRAVELING, LISTING MUSIC|
 ##  Projects
 
 Here are some of the recent projects I've built:
